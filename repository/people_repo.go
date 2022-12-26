@@ -24,7 +24,7 @@ func (p *peopleRepo) GetAllPeopleList() []model.People {
 			Age:  29,
 		}, {
 			Name: "Christian",
-			Age:  23,
+			Age:  21,
 		},
 	}
 	return listPeople[:]
